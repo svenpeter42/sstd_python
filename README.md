@@ -1,2 +1,4 @@
 # sstd_python
-python / cython implementation of "Sparse Space-Time Deconvolution for Calcium Image Analysis", NIPS 2014, by Ferran Diego and Fred A. Hamprecht
+
+python / cython implementation of
+    Andilla, Ferran Diego, and Fred A. Hamprecht. "Sparse space-time deconvolution for Calcium image analysis." Advances in Neural Information Processing Systems. 2014.
